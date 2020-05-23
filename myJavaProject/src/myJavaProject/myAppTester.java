@@ -21,6 +21,7 @@ public class myAppTester {
 		System.out.println("Enter any number then i will tell you that number is odd or even");
 		x= input.nextInt();
 		oddEven(x);
+		/*git is working*/
 	}
 	
 	private static void oddEven(int a) {
